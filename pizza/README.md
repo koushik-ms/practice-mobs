@@ -27,3 +27,5 @@ Given an array [n4, n3, n2] rep number of 4, 3 and 2 member teams calculate the 
 2. take `i1` and find pizza having that ing and max other ing of that pizza in set-> p<sub>j</sub>
 3. remove other ing of p<sub>j</sub> from set of all ing
 4. if set is empty then break, else goto step 2.
+
+0/1 knapsack problem maximixing value = number of uniq ing vs weights (e.g., each pizza has wt of 1)
